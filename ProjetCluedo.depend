@@ -1,0 +1,1717 @@
+# depslib dependency file v1.0
+1637146658 source:c:\users\mathy\onedrive\bureau\projetcluedo\main.cpp
+	<vector>
+	<iostream>
+	<time.h>
+	<random>
+	<algorithm>
+	<iterator>
+	<windows.h>
+	"console.h"
+	"Carte.h"
+	"Joueur.h"
+	"sspg.h"
+	"Case.h"
+	"Plateau.h"
+
+1636921331 source:c:\users\mathy\onedrive\bureau\projetcluedo\src\carte.cpp
+	"Carte.h"
+	<vector>
+	<iostream>
+
+1636921331 c:\users\mathy\onedrive\bureau\projetcluedo\include\carte.h
+	<iostream>
+
+1636921331 source:c:\users\mathy\onedrive\bureau\projetcluedo\src\case.cpp
+	"Case.h"
+	<vector>
+	<iostream>
+
+1636921331 c:\users\mathy\onedrive\bureau\projetcluedo\include\case.h
+	"Joueur.h"
+
+1636921368 c:\users\mathy\onedrive\bureau\projetcluedo\include\joueur.h
+	"Carte.h"
+	"Plateau.h"
+	<algorithm>
+	<random>
+	<chrono>
+	<iostream>
+	<vector>
+	<string>
+	<fstream>
+	<ctime>
+	<cstdlib>
+	<stack>
+
+1636991564 c:\users\mathy\onedrive\bureau\projetcluedo\include\plateau.h
+	<iostream>
+	<vector>
+	"Case.h"
+	"Joueur.h"
+
+1637146106 source:c:\users\mathy\onedrive\bureau\projetcluedo\src\joueur.cpp
+	"Joueur.h"
+
+1636921331 source:c:\users\mathy\onedrive\bureau\projetcluedo\src\paquet.cpp
+	"Paquet.h"
+
+1636921331 c:\users\mathy\onedrive\bureau\projetcluedo\include\paquet.h
+	<iostream>
+	<random>
+	<algorithm>
+	<iterator>
+	<vector>
+	<time.h>
+	<iostream>
+	<vector>
+	<time.h>
+	"Carte.h"
+
+1637148025 source:c:\users\mathy\onedrive\bureau\projetcluedo\src\plateau.cpp
+	"Plateau.h"
+
+1636921459 source:c:\users\mathy\onedrive\bureau\projetcluedo\console.cpp
+	"console.h"
+
+1636921446 c:\users\mathy\onedrive\bureau\projetcluedo\console.h
+	<iostream>
+	<conio.h>
+	<windows.h>
+
+1636921626 source:c:\users\mathy\onedrive\bureau\projetcluedo\sspg.cpp
+	"sspg.h"
+
+1636921626 c:\users\mathy\onedrive\bureau\projetcluedo\sspg.h
+	<iostream>
+	<random>
+	<algorithm>
+	<iterator>
+	<vector>
+	<time.h>
+	<iostream>
+	<vector>
+	<time.h>
+	"case.h"
+	"carte.h"
+
+1636921459 source:c:\users\jules\onedrive\bureau\projet c++ cluedo\projet cluedo v8\console.cpp
+	"console.h"
+
+1636921446 c:\users\jules\onedrive\bureau\projet c++ cluedo\projet cluedo v8\console.h
+	<iostream>
+	<conio.h>
+	<windows.h>
+
+1637454132 source:c:\users\jules\onedrive\bureau\projet c++ cluedo\projet cluedo v8\main.cpp
+	<vector>
+	<iostream>
+	<time.h>
+	<random>
+	<algorithm>
+	<iterator>
+	<windows.h>
+	"console.h"
+	"Carte.h"
+	"Joueur.h"
+	"sspg.h"
+	"Case.h"
+	"Plateau.h"
+
+1636921331 c:\users\jules\onedrive\bureau\projet c++ cluedo\projet cluedo v8\include\carte.h
+	<iostream>
+
+1637449821 c:\users\jules\onedrive\bureau\projet c++ cluedo\projet cluedo v8\include\joueur.h
+	"Carte.h"
+	"Plateau.h"
+	<algorithm>
+	<random>
+	<chrono>
+	<iostream>
+	<vector>
+	<string>
+	<fstream>
+	<ctime>
+	<cstdlib>
+	<stack>
+
+1637454132 c:\users\jules\onedrive\bureau\projet c++ cluedo\projet cluedo v8\include\plateau.h
+	<iostream>
+	<vector>
+	"Case.h"
+	"Joueur.h"
+	"Carte.h"
+
+1636921331 c:\users\jules\onedrive\bureau\projet c++ cluedo\projet cluedo v8\include\case.h
+	"Joueur.h"
+
+1636921626 c:\users\jules\onedrive\bureau\projet c++ cluedo\projet cluedo v8\sspg.h
+	<iostream>
+	<random>
+	<algorithm>
+	<iterator>
+	<vector>
+	<time.h>
+	<iostream>
+	<vector>
+	<time.h>
+	"case.h"
+	"carte.h"
+
+1636921331 source:c:\users\jules\onedrive\bureau\projet c++ cluedo\projet cluedo v8\src\carte.cpp
+	"Carte.h"
+	<vector>
+	<iostream>
+
+1636921331 source:c:\users\jules\onedrive\bureau\projet c++ cluedo\projet cluedo v8\src\case.cpp
+	"Case.h"
+	<vector>
+	<iostream>
+
+1637450056 source:c:\users\jules\onedrive\bureau\projet c++ cluedo\projet cluedo v8\src\joueur.cpp
+	"Joueur.h"
+	"Console.h"
+
+1636921331 source:c:\users\jules\onedrive\bureau\projet c++ cluedo\projet cluedo v8\src\paquet.cpp
+	"Paquet.h"
+
+1636921331 c:\users\jules\onedrive\bureau\projet c++ cluedo\projet cluedo v8\include\paquet.h
+	<iostream>
+	<random>
+	<algorithm>
+	<iterator>
+	<vector>
+	<time.h>
+	<iostream>
+	<vector>
+	<time.h>
+	"Carte.h"
+
+1637454368 source:c:\users\jules\onedrive\bureau\projet c++ cluedo\projet cluedo v8\src\plateau.cpp
+	"Plateau.h"
+	"console.h"
+
+1636921626 source:c:\users\jules\onedrive\bureau\projet c++ cluedo\projet cluedo v8\sspg.cpp
+	"sspg.h"
+
+1637445499 source:c:\users\jules\onedrive\bureau\projet c++ cluedo\projet cluedo v8\src\console.cpp
+	"console.h"
+
+1637445499 c:\users\jules\onedrive\bureau\projet c++ cluedo\projet cluedo v8\include\console.h
+	<iostream>
+	<conio.h>
+	<windows.h>
+
+1637497429 source:c:\users\mathy\onedrive\bureau\projet cluedo v9\main.cpp
+	<vector>
+	<iostream>
+	<time.h>
+	<random>
+	<algorithm>
+	<iterator>
+	<windows.h>
+	"console.h"
+	"Carte.h"
+	"Joueur.h"
+	"sspg.h"
+	"Case.h"
+	"Plateau.h"
+
+1636921448 c:\users\mathy\onedrive\bureau\projet cluedo v9\console.h
+	<iostream>
+	<conio.h>
+	<windows.h>
+
+1636921332 c:\users\mathy\onedrive\bureau\projet cluedo v9\include\carte.h
+	<iostream>
+
+1637496201 c:\users\mathy\onedrive\bureau\projet cluedo v9\include\joueur.h
+	"Carte.h"
+	"Plateau.h"
+	<algorithm>
+	<random>
+	<chrono>
+	<iostream>
+	<vector>
+	<string>
+	<fstream>
+	<ctime>
+	<cstdlib>
+	<stack>
+
+1637494224 c:\users\mathy\onedrive\bureau\projet cluedo v9\include\plateau.h
+	<iostream>
+	<vector>
+	"Case.h"
+	"Joueur.h"
+	"Carte.h"
+
+1636921332 c:\users\mathy\onedrive\bureau\projet cluedo v9\include\case.h
+	"Joueur.h"
+
+1636921628 c:\users\mathy\onedrive\bureau\projet cluedo v9\sspg.h
+	<iostream>
+	<random>
+	<algorithm>
+	<iterator>
+	<vector>
+	<time.h>
+	<iostream>
+	<vector>
+	<time.h>
+	"case.h"
+	"carte.h"
+
+1636921332 source:c:\users\mathy\onedrive\bureau\projet cluedo v9\src\carte.cpp
+	"Carte.h"
+	<vector>
+	<iostream>
+
+1636921332 source:c:\users\mathy\onedrive\bureau\projet cluedo v9\src\case.cpp
+	"Case.h"
+	<vector>
+	<iostream>
+
+1637445500 source:c:\users\mathy\onedrive\bureau\projet cluedo v9\src\console.cpp
+	"console.h"
+
+1637494813 c:\users\mathy\onedrive\bureau\projet cluedo v9\include\console.h
+	<iostream>
+	<conio.h>
+	<windows.h>
+
+1637497445 source:c:\users\mathy\onedrive\bureau\projet cluedo v9\src\joueur.cpp
+	"Joueur.h"
+	"Console.h"
+
+1636921332 source:c:\users\mathy\onedrive\bureau\projet cluedo v9\src\paquet.cpp
+	"Paquet.h"
+
+1636921332 c:\users\mathy\onedrive\bureau\projet cluedo v9\include\paquet.h
+	<iostream>
+	<random>
+	<algorithm>
+	<iterator>
+	<vector>
+	<time.h>
+	<iostream>
+	<vector>
+	<time.h>
+	"Carte.h"
+
+1637494297 source:c:\users\mathy\onedrive\bureau\projet cluedo v9\src\plateau.cpp
+	"Plateau.h"
+	"console.h"
+
+1636921628 source:c:\users\mathy\onedrive\bureau\projet cluedo v9\sspg.cpp
+	"sspg.h"
+
+1637936908 source:c:\users\jules\onedrive\bureau\projet cluedo v12\main.cpp
+	<vector>
+	<iostream>
+	<time.h>
+	<random>
+	<algorithm>
+	<iterator>
+	<windows.h>
+	"console.h"
+	"Carte.h"
+	"Joueur.h"
+	"sspg.h"
+	"Case.h"
+	"Plateau.h"
+
+1636921448 c:\users\jules\onedrive\bureau\projet cluedo v12\console.h
+	<iostream>
+	<conio.h>
+	<windows.h>
+
+1637678260 c:\users\jules\onedrive\bureau\projet cluedo v12\include\carte.h
+	<iostream>
+
+1637937313 c:\users\jules\onedrive\bureau\projet cluedo v12\include\joueur.h
+	"Carte.h"
+	"Plateau.h"
+	<algorithm>
+	<random>
+	<chrono>
+	<iostream>
+	<vector>
+	<string>
+	<fstream>
+	<ctime>
+	<cstdlib>
+	<stack>
+
+1637683870 c:\users\jules\onedrive\bureau\projet cluedo v12\include\plateau.h
+	<iostream>
+	<vector>
+	"Case.h"
+	"Joueur.h"
+	"Carte.h"
+
+1636921332 c:\users\jules\onedrive\bureau\projet cluedo v12\include\case.h
+	"Joueur.h"
+
+1636921628 c:\users\jules\onedrive\bureau\projet cluedo v12\sspg.h
+	<iostream>
+	<random>
+	<algorithm>
+	<iterator>
+	<vector>
+	<time.h>
+	<iostream>
+	<vector>
+	<time.h>
+	"case.h"
+	"carte.h"
+
+1637681212 source:c:\users\jules\onedrive\bureau\projet cluedo v12\src\carte.cpp
+	"Carte.h"
+	<iostream>
+	<random>
+	<algorithm>
+	<iterator>
+	<time.h>
+	<iostream>
+	<vector>
+	<time.h>
+	<fstream>
+
+1636921332 source:c:\users\jules\onedrive\bureau\projet cluedo v12\src\case.cpp
+	"Case.h"
+	<vector>
+	<iostream>
+
+1637598070 source:c:\users\jules\onedrive\bureau\projet cluedo v12\src\console.cpp
+	"console.h"
+
+1637598088 c:\users\jules\onedrive\bureau\projet cluedo v12\include\console.h
+	<iostream>
+	<conio.h>
+	<windows.h>
+
+1637941317 source:c:\users\jules\onedrive\bureau\projet cluedo v12\src\joueur.cpp
+	"Joueur.h"
+	"Carte.h"
+	"Console.h"
+	<iostream>
+
+1636921332 source:c:\users\jules\onedrive\bureau\projet cluedo v12\src\paquet.cpp
+	"Paquet.h"
+
+1636921332 c:\users\jules\onedrive\bureau\projet cluedo v12\include\paquet.h
+	<iostream>
+	<random>
+	<algorithm>
+	<iterator>
+	<vector>
+	<time.h>
+	<iostream>
+	<vector>
+	<time.h>
+	"Carte.h"
+
+1637932366 source:c:\users\jules\onedrive\bureau\projet cluedo v12\src\plateau.cpp
+	"Plateau.h"
+	"console.h"
+
+1636921628 source:c:\users\jules\onedrive\bureau\projet cluedo v12\sspg.cpp
+	"sspg.h"
+
+1637681210 source:c:\users\jules\onedrive\bureau\projet c++ cluedo\projet cluedo v12\src\carte.cpp
+	"Carte.h"
+	<iostream>
+	<random>
+	<algorithm>
+	<iterator>
+	<time.h>
+	<iostream>
+	<vector>
+	<time.h>
+	<fstream>
+
+1637678258 c:\users\jules\onedrive\bureau\projet c++ cluedo\projet cluedo v12\include\carte.h
+	<iostream>
+
+1636921332 source:c:\users\jules\onedrive\bureau\projet c++ cluedo\projet cluedo v12\src\case.cpp
+	"Case.h"
+	<vector>
+	<iostream>
+
+1636921332 c:\users\jules\onedrive\bureau\projet c++ cluedo\projet cluedo v12\include\case.h
+	"Joueur.h"
+
+1637674364 c:\users\jules\onedrive\bureau\projet c++ cluedo\projet cluedo v12\include\joueur.h
+	"Carte.h"
+	"Plateau.h"
+	<algorithm>
+	<random>
+	<chrono>
+	<iostream>
+	<vector>
+	<string>
+	<fstream>
+	<ctime>
+	<cstdlib>
+	<stack>
+
+1637683868 c:\users\jules\onedrive\bureau\projet c++ cluedo\projet cluedo v12\include\plateau.h
+	<iostream>
+	<vector>
+	"Case.h"
+	"Joueur.h"
+	"Carte.h"
+
+1637598069 source:c:\users\jules\onedrive\bureau\projet c++ cluedo\projet cluedo v12\src\console.cpp
+	"console.h"
+
+1637598086 c:\users\jules\onedrive\bureau\projet c++ cluedo\projet cluedo v12\include\console.h
+	<iostream>
+	<conio.h>
+	<windows.h>
+
+1637682144 source:c:\users\jules\onedrive\bureau\projet c++ cluedo\projet cluedo v12\src\joueur.cpp
+	"Joueur.h"
+	"Carte.h"
+	"Console.h"
+	<iostream>
+
+1636921332 source:c:\users\jules\onedrive\bureau\projet c++ cluedo\projet cluedo v12\src\paquet.cpp
+	"Paquet.h"
+
+1636921332 c:\users\jules\onedrive\bureau\projet c++ cluedo\projet cluedo v12\include\paquet.h
+	<iostream>
+	<random>
+	<algorithm>
+	<iterator>
+	<vector>
+	<time.h>
+	<iostream>
+	<vector>
+	<time.h>
+	"Carte.h"
+
+1637684057 source:c:\users\jules\onedrive\bureau\projet c++ cluedo\projet cluedo v12\src\plateau.cpp
+	"Plateau.h"
+	"console.h"
+
+1636921628 source:c:\users\jules\onedrive\bureau\projet c++ cluedo\projet cluedo v12\sspg.cpp
+	"sspg.h"
+
+1636921628 c:\users\jules\onedrive\bureau\projet c++ cluedo\projet cluedo v12\sspg.h
+	<iostream>
+	<random>
+	<algorithm>
+	<iterator>
+	<vector>
+	<time.h>
+	<iostream>
+	<vector>
+	<time.h>
+	"case.h"
+	"carte.h"
+
+1637683883 source:c:\users\jules\onedrive\bureau\projet c++ cluedo\projet cluedo v12\main.cpp
+	<vector>
+	<iostream>
+	<time.h>
+	<random>
+	<algorithm>
+	<iterator>
+	<windows.h>
+	"console.h"
+	"Carte.h"
+	"Joueur.h"
+	"sspg.h"
+	"Case.h"
+	"Plateau.h"
+
+1636921448 c:\users\jules\onedrive\bureau\projet c++ cluedo\projet cluedo v12\console.h
+	<iostream>
+	<conio.h>
+	<windows.h>
+
+1637683884 source:c:\users\mathy\onedrive\bureau\projet cluedo v12\main.cpp
+	<vector>
+	<iostream>
+	<time.h>
+	<random>
+	<algorithm>
+	<iterator>
+	<windows.h>
+	"console.h"
+	"Carte.h"
+	"Joueur.h"
+	"sspg.h"
+	"Case.h"
+	"Plateau.h"
+
+1636921448 c:\users\mathy\onedrive\bureau\projet cluedo v12\console.h
+	<iostream>
+	<conio.h>
+	<windows.h>
+
+1637678260 c:\users\mathy\onedrive\bureau\projet cluedo v12\include\carte.h
+	<iostream>
+
+1637931155 c:\users\mathy\onedrive\bureau\projet cluedo v12\include\joueur.h
+	"Carte.h"
+	"Plateau.h"
+	<algorithm>
+	<random>
+	<chrono>
+	<iostream>
+	<vector>
+	<string>
+	<fstream>
+	<ctime>
+	<cstdlib>
+	<stack>
+
+1637683870 c:\users\mathy\onedrive\bureau\projet cluedo v12\include\plateau.h
+	<iostream>
+	<vector>
+	"Case.h"
+	"Joueur.h"
+	"Carte.h"
+
+1636921332 c:\users\mathy\onedrive\bureau\projet cluedo v12\include\case.h
+	"Joueur.h"
+
+1636921628 c:\users\mathy\onedrive\bureau\projet cluedo v12\sspg.h
+	<iostream>
+	<random>
+	<algorithm>
+	<iterator>
+	<vector>
+	<time.h>
+	<iostream>
+	<vector>
+	<time.h>
+	"case.h"
+	"carte.h"
+
+1637681212 source:c:\users\mathy\onedrive\bureau\projet cluedo v12\src\carte.cpp
+	"Carte.h"
+	<iostream>
+	<random>
+	<algorithm>
+	<iterator>
+	<time.h>
+	<iostream>
+	<vector>
+	<time.h>
+	<fstream>
+
+1636921332 source:c:\users\mathy\onedrive\bureau\projet cluedo v12\src\case.cpp
+	"Case.h"
+	<vector>
+	<iostream>
+
+1637598070 source:c:\users\mathy\onedrive\bureau\projet cluedo v12\src\console.cpp
+	"console.h"
+
+1637598088 c:\users\mathy\onedrive\bureau\projet cluedo v12\include\console.h
+	<iostream>
+	<conio.h>
+	<windows.h>
+
+1637687680 source:c:\users\mathy\onedrive\bureau\projet cluedo v12\src\joueur.cpp
+	"Joueur.h"
+	"Carte.h"
+	"Console.h"
+	<iostream>
+
+1636921332 source:c:\users\mathy\onedrive\bureau\projet cluedo v12\src\paquet.cpp
+	"Paquet.h"
+
+1636921332 c:\users\mathy\onedrive\bureau\projet cluedo v12\include\paquet.h
+	<iostream>
+	<random>
+	<algorithm>
+	<iterator>
+	<vector>
+	<time.h>
+	<iostream>
+	<vector>
+	<time.h>
+	"Carte.h"
+
+1637687434 source:c:\users\mathy\onedrive\bureau\projet cluedo v12\src\plateau.cpp
+	"Plateau.h"
+	"console.h"
+
+1636921628 source:c:\users\mathy\onedrive\bureau\projet cluedo v12\sspg.cpp
+	"sspg.h"
+
+1638114933 source:c:\users\jules\onedrive\bureau\projet cluedo v20\main.cpp
+	<vector>
+	<iostream>
+	<time.h>
+	<random>
+	<algorithm>
+	<iterator>
+	<windows.h>
+	"console.h"
+	"Carte.h"
+	"Joueur.h"
+	"Paquet.h"
+	"Case.h"
+	"Plateau.h"
+
+1636921448 c:\users\jules\onedrive\bureau\projet cluedo v20\console.h
+	<iostream>
+	<conio.h>
+	<windows.h>
+
+1637678260 c:\users\jules\onedrive\bureau\projet cluedo v20\include\carte.h
+	<iostream>
+
+1637937313 c:\users\jules\onedrive\bureau\projet cluedo v20\include\joueur.h
+	"Carte.h"
+	"Plateau.h"
+	<algorithm>
+	<random>
+	<chrono>
+	<iostream>
+	<vector>
+	<string>
+	<fstream>
+	<ctime>
+	<cstdlib>
+	<stack>
+
+1637683870 c:\users\jules\onedrive\bureau\projet cluedo v20\include\plateau.h
+	<iostream>
+	<vector>
+	"Case.h"
+	"Joueur.h"
+	"Carte.h"
+
+1636921332 c:\users\jules\onedrive\bureau\projet cluedo v20\include\case.h
+	"Joueur.h"
+
+1638112477 c:\users\jules\onedrive\bureau\projet cluedo v20\sspg.h
+	<iostream>
+	<random>
+	<algorithm>
+	<iterator>
+	<vector>
+	<time.h>
+	<iostream>
+	<vector>
+	<time.h>
+	"case.h"
+	"carte.h"
+
+1637681212 source:c:\users\jules\onedrive\bureau\projet cluedo v20\src\carte.cpp
+	"Carte.h"
+	<iostream>
+	<random>
+	<algorithm>
+	<iterator>
+	<time.h>
+	<iostream>
+	<vector>
+	<time.h>
+	<fstream>
+
+1636921332 source:c:\users\jules\onedrive\bureau\projet cluedo v20\src\case.cpp
+	"Case.h"
+	<vector>
+	<iostream>
+
+1637598070 source:c:\users\jules\onedrive\bureau\projet cluedo v20\src\console.cpp
+	"console.h"
+
+1637598088 c:\users\jules\onedrive\bureau\projet cluedo v20\include\console.h
+	<iostream>
+	<conio.h>
+	<windows.h>
+
+1638111978 source:c:\users\jules\onedrive\bureau\projet cluedo v20\src\joueur.cpp
+	"Joueur.h"
+	"Carte.h"
+	"Console.h"
+	<iostream>
+
+1638114953 source:c:\users\jules\onedrive\bureau\projet cluedo v20\src\paquet.cpp
+	"Paquet.h"
+
+1638114953 c:\users\jules\onedrive\bureau\projet cluedo v20\include\paquet.h
+	<iostream>
+	<random>
+	<algorithm>
+	<iterator>
+	<vector>
+	<time.h>
+	<iostream>
+	<vector>
+	<time.h>
+	"case.h"
+	"carte.h"
+
+1638017456 source:c:\users\jules\onedrive\bureau\projet cluedo v20\src\plateau.cpp
+	"Plateau.h"
+	"console.h"
+
+1636921628 source:c:\users\jules\onedrive\bureau\projet cluedo v20\sspg.cpp
+	"sspg.h"
+
+1638114731 source:c:\users\jules\onedrive\bureau\projet cluedo v20\src\paquet2.cpp
+	"Paquet2.h"
+
+1638114767 c:\users\jules\onedrive\bureau\projet cluedo v20\include\paquet2.h
+	<iostream>
+	<random>
+	<algorithm>
+	<iterator>
+	<vector>
+	<time.h>
+	<iostream>
+	<vector>
+	<time.h>
+	"case.h"
+	"carte.h"
+
+1638118391 source:c:\users\mathy\onedrive\bureau\projet cluedo v23\main.cpp
+	<vector>
+	<iostream>
+	<time.h>
+	<random>
+	<algorithm>
+	<iterator>
+	<windows.h>
+	"console.h"
+	"Carte.h"
+	"Joueur.h"
+	"Paquet.h"
+	"Case.h"
+	"Plateau.h"
+
+1636921448 c:\users\mathy\onedrive\bureau\projet cluedo v23\console.h
+	<iostream>
+	<conio.h>
+	<windows.h>
+
+1637678260 c:\users\mathy\onedrive\bureau\projet cluedo v23\include\carte.h
+	<iostream>
+
+1638117371 c:\users\mathy\onedrive\bureau\projet cluedo v23\include\joueur.h
+	"Carte.h"
+	"Plateau.h"
+	<algorithm>
+	<random>
+	<chrono>
+	<iostream>
+	<vector>
+	<string>
+	<fstream>
+	<ctime>
+	<cstdlib>
+	<stack>
+
+1637683870 c:\users\mathy\onedrive\bureau\projet cluedo v23\include\plateau.h
+	<iostream>
+	<vector>
+	"Case.h"
+	"Joueur.h"
+	"Carte.h"
+
+1636921332 c:\users\mathy\onedrive\bureau\projet cluedo v23\include\case.h
+	"Joueur.h"
+
+1638114954 c:\users\mathy\onedrive\bureau\projet cluedo v23\include\paquet.h
+	<iostream>
+	<random>
+	<algorithm>
+	<iterator>
+	<vector>
+	<time.h>
+	<iostream>
+	<vector>
+	<time.h>
+	"case.h"
+	"carte.h"
+
+1637681212 source:c:\users\mathy\onedrive\bureau\projet cluedo v23\src\carte.cpp
+	"Carte.h"
+	<iostream>
+	<random>
+	<algorithm>
+	<iterator>
+	<time.h>
+	<iostream>
+	<vector>
+	<time.h>
+	<fstream>
+
+1636921332 source:c:\users\mathy\onedrive\bureau\projet cluedo v23\src\case.cpp
+	"Case.h"
+	<vector>
+	<iostream>
+
+1637598070 source:c:\users\mathy\onedrive\bureau\projet cluedo v23\src\console.cpp
+	"console.h"
+
+1637598088 c:\users\mathy\onedrive\bureau\projet cluedo v23\include\console.h
+	<iostream>
+	<conio.h>
+	<windows.h>
+
+1638117557 source:c:\users\mathy\onedrive\bureau\projet cluedo v23\src\joueur.cpp
+	"Joueur.h"
+	"Carte.h"
+	"Console.h"
+	<iostream>
+
+1638114954 source:c:\users\mathy\onedrive\bureau\projet cluedo v23\src\paquet.cpp
+	"Paquet.h"
+
+1638116761 source:c:\users\mathy\onedrive\bureau\projet cluedo v23\src\plateau.cpp
+	"Plateau.h"
+	"console.h"
+
+1637681212 source:c:\users\jules\onedrive\bureau\projet cluedo v24\src\carte.cpp
+	"Carte.h"
+	<iostream>
+	<random>
+	<algorithm>
+	<iterator>
+	<time.h>
+	<iostream>
+	<vector>
+	<time.h>
+	<fstream>
+
+1637678260 c:\users\jules\onedrive\bureau\projet cluedo v24\include\carte.h
+	<iostream>
+
+1636921332 source:c:\users\jules\onedrive\bureau\projet cluedo v24\src\case.cpp
+	"Case.h"
+	<vector>
+	<iostream>
+
+1636921332 c:\users\jules\onedrive\bureau\projet cluedo v24\include\case.h
+	"Joueur.h"
+
+1638117371 c:\users\jules\onedrive\bureau\projet cluedo v24\include\joueur.h
+	"Carte.h"
+	"Plateau.h"
+	<algorithm>
+	<random>
+	<chrono>
+	<iostream>
+	<vector>
+	<string>
+	<fstream>
+	<ctime>
+	<cstdlib>
+	<stack>
+
+1637683870 c:\users\jules\onedrive\bureau\projet cluedo v24\include\plateau.h
+	<iostream>
+	<vector>
+	"Case.h"
+	"Joueur.h"
+	"Carte.h"
+
+1637598070 source:c:\users\jules\onedrive\bureau\projet cluedo v24\src\console.cpp
+	"console.h"
+
+1637598088 c:\users\jules\onedrive\bureau\projet cluedo v24\include\console.h
+	<iostream>
+	<conio.h>
+	<windows.h>
+
+1638123513 source:c:\users\jules\onedrive\bureau\projet cluedo v24\src\joueur.cpp
+	"Joueur.h"
+	"Carte.h"
+	"Console.h"
+	<iostream>
+
+1638114954 source:c:\users\jules\onedrive\bureau\projet cluedo v24\src\paquet.cpp
+	"Paquet.h"
+
+1638114954 c:\users\jules\onedrive\bureau\projet cluedo v24\include\paquet.h
+	<iostream>
+	<random>
+	<algorithm>
+	<iterator>
+	<vector>
+	<time.h>
+	<iostream>
+	<vector>
+	<time.h>
+	"case.h"
+	"carte.h"
+
+1638118419 source:c:\users\jules\onedrive\bureau\projet cluedo v24\src\plateau.cpp
+	"Plateau.h"
+	"console.h"
+
+1638121085 source:c:\users\jules\onedrive\bureau\projet cluedo v24\main.cpp
+	<vector>
+	<iostream>
+	<time.h>
+	<random>
+	<algorithm>
+	<iterator>
+	<windows.h>
+	"console.h"
+	"Carte.h"
+	"Joueur.h"
+	"Paquet.h"
+	"Case.h"
+	"Plateau.h"
+
+1636921448 c:\users\jules\onedrive\bureau\projet cluedo v24\console.h
+	<iostream>
+	<conio.h>
+	<windows.h>
+
+1638130013 source:c:\users\jules\onedrive\bureau\projet cluedo v25\main.cpp
+	<vector>
+	<iostream>
+	<time.h>
+	<random>
+	<algorithm>
+	<iterator>
+	<windows.h>
+	"console.h"
+	"Carte.h"
+	"Joueur.h"
+	"Paquet.h"
+	"Case.h"
+	"Plateau.h"
+
+1636921448 c:\users\jules\onedrive\bureau\projet cluedo v25\console.h
+	<iostream>
+	<conio.h>
+	<windows.h>
+
+1637678260 c:\users\jules\onedrive\bureau\projet cluedo v25\include\carte.h
+	<iostream>
+
+1638117371 c:\users\jules\onedrive\bureau\projet cluedo v25\include\joueur.h
+	"Carte.h"
+	"Plateau.h"
+	<algorithm>
+	<random>
+	<chrono>
+	<iostream>
+	<vector>
+	<string>
+	<fstream>
+	<ctime>
+	<cstdlib>
+	<stack>
+
+1637683870 c:\users\jules\onedrive\bureau\projet cluedo v25\include\plateau.h
+	<iostream>
+	<vector>
+	"Case.h"
+	"Joueur.h"
+	"Carte.h"
+
+1636921332 c:\users\jules\onedrive\bureau\projet cluedo v25\include\case.h
+	"Joueur.h"
+
+1638114954 c:\users\jules\onedrive\bureau\projet cluedo v25\include\paquet.h
+	<iostream>
+	<random>
+	<algorithm>
+	<iterator>
+	<vector>
+	<time.h>
+	<iostream>
+	<vector>
+	<time.h>
+	"case.h"
+	"carte.h"
+
+1637681212 source:c:\users\jules\onedrive\bureau\projet cluedo v25\src\carte.cpp
+	"Carte.h"
+	<iostream>
+	<random>
+	<algorithm>
+	<iterator>
+	<time.h>
+	<iostream>
+	<vector>
+	<time.h>
+	<fstream>
+
+1636921332 source:c:\users\jules\onedrive\bureau\projet cluedo v25\src\case.cpp
+	"Case.h"
+	<vector>
+	<iostream>
+
+1637598070 source:c:\users\jules\onedrive\bureau\projet cluedo v25\src\console.cpp
+	"console.h"
+
+1637598088 c:\users\jules\onedrive\bureau\projet cluedo v25\include\console.h
+	<iostream>
+	<conio.h>
+	<windows.h>
+
+1638129687 source:c:\users\jules\onedrive\bureau\projet cluedo v25\src\joueur.cpp
+	"Joueur.h"
+	"Carte.h"
+	"Console.h"
+	<iostream>
+
+1638114954 source:c:\users\jules\onedrive\bureau\projet cluedo v25\src\paquet.cpp
+	"Paquet.h"
+
+1638118419 source:c:\users\jules\onedrive\bureau\projet cluedo v25\src\plateau.cpp
+	"Plateau.h"
+	"console.h"
+
+1638136668 source:c:\users\jules\onedrive\bureau\projet cluedo v25 - copie\main.cpp
+	<vector>
+	<iostream>
+	<time.h>
+	<random>
+	<algorithm>
+	<iterator>
+	<windows.h>
+	"console.h"
+	"Carte.h"
+	"Joueur.h"
+	"Paquet.h"
+	"Case.h"
+	"Plateau.h"
+
+1636921448 c:\users\jules\onedrive\bureau\projet cluedo v25 - copie\console.h
+	<iostream>
+	<conio.h>
+	<windows.h>
+
+1637678260 c:\users\jules\onedrive\bureau\projet cluedo v25 - copie\include\carte.h
+	<iostream>
+
+1638136549 c:\users\jules\onedrive\bureau\projet cluedo v25 - copie\include\joueur.h
+	"Carte.h"
+	"Plateau.h"
+	<algorithm>
+	<random>
+	<chrono>
+	<iostream>
+	<vector>
+	<string>
+	<fstream>
+	<ctime>
+	<cstdlib>
+	<stack>
+
+1638136549 c:\users\jules\onedrive\bureau\projet cluedo v25 - copie\include\plateau.h
+	<iostream>
+	<vector>
+	"Case.h"
+	"Joueur.h"
+	"Carte.h"
+
+1638136549 c:\users\jules\onedrive\bureau\projet cluedo v25 - copie\include\case.h
+	"Joueur.h"
+
+1638136549 c:\users\jules\onedrive\bureau\projet cluedo v25 - copie\include\paquet.h
+	<iostream>
+	<random>
+	<algorithm>
+	<iterator>
+	<vector>
+	<time.h>
+	<iostream>
+	<vector>
+	<time.h>
+	"case.h"
+	"carte.h"
+
+1638136549 source:c:\users\jules\onedrive\bureau\projet cluedo v25 - copie\src\carte.cpp
+	"Carte.h"
+	<iostream>
+	<random>
+	<algorithm>
+	<iterator>
+	<time.h>
+	<iostream>
+	<vector>
+	<time.h>
+	<fstream>
+
+1638136549 source:c:\users\jules\onedrive\bureau\projet cluedo v25 - copie\src\case.cpp
+	"Case.h"
+	<vector>
+	<iostream>
+
+1638136549 source:c:\users\jules\onedrive\bureau\projet cluedo v25 - copie\src\console.cpp
+	"console.h"
+
+1638136549 c:\users\jules\onedrive\bureau\projet cluedo v25 - copie\include\console.h
+	<iostream>
+	<conio.h>
+	<windows.h>
+
+1638136549 source:c:\users\jules\onedrive\bureau\projet cluedo v25 - copie\src\joueur.cpp
+	"Joueur.h"
+	"Carte.h"
+	"Console.h"
+	<iostream>
+
+1638136549 source:c:\users\jules\onedrive\bureau\projet cluedo v25 - copie\src\paquet.cpp
+	"Paquet.h"
+
+1638136549 source:c:\users\jules\onedrive\bureau\projet cluedo v25 - copie\src\plateau.cpp
+	"Plateau.h"
+	"console.h"
+
+1638137360 source:c:\users\jules\onedrive\bureau\bagnah - pinte - tiercelet 2\projet cluedo vf\main.cpp
+	<vector>
+	<iostream>
+	<time.h>
+	<random>
+	<algorithm>
+	<iterator>
+	<windows.h>
+	"console.h"
+	"Carte.h"
+	"Joueur.h"
+	"Paquet.h"
+	"Case.h"
+	"Plateau.h"
+
+1636921448 c:\users\jules\onedrive\bureau\bagnah - pinte - tiercelet 2\projet cluedo vf\console.h
+	<iostream>
+	<conio.h>
+	<windows.h>
+
+1637678260 c:\users\jules\onedrive\bureau\bagnah - pinte - tiercelet 2\projet cluedo vf\include\carte.h
+	<iostream>
+
+1638136550 c:\users\jules\onedrive\bureau\bagnah - pinte - tiercelet 2\projet cluedo vf\include\joueur.h
+	"Carte.h"
+	"Plateau.h"
+	<algorithm>
+	<random>
+	<chrono>
+	<iostream>
+	<vector>
+	<string>
+	<fstream>
+	<ctime>
+	<cstdlib>
+	<stack>
+
+1638136550 c:\users\jules\onedrive\bureau\bagnah - pinte - tiercelet 2\projet cluedo vf\include\plateau.h
+	<iostream>
+	<vector>
+	"Case.h"
+	"Joueur.h"
+	"Carte.h"
+
+1638136550 c:\users\jules\onedrive\bureau\bagnah - pinte - tiercelet 2\projet cluedo vf\include\case.h
+	"Joueur.h"
+
+1638136550 c:\users\jules\onedrive\bureau\bagnah - pinte - tiercelet 2\projet cluedo vf\include\paquet.h
+	<iostream>
+	<random>
+	<algorithm>
+	<iterator>
+	<vector>
+	<time.h>
+	<iostream>
+	<vector>
+	<time.h>
+	"case.h"
+	"carte.h"
+
+1638136550 source:c:\users\jules\onedrive\bureau\bagnah - pinte - tiercelet 2\projet cluedo vf\src\carte.cpp
+	"Carte.h"
+	<iostream>
+	<random>
+	<algorithm>
+	<iterator>
+	<time.h>
+	<iostream>
+	<vector>
+	<time.h>
+	<fstream>
+
+1638136550 source:c:\users\jules\onedrive\bureau\bagnah - pinte - tiercelet 2\projet cluedo vf\src\case.cpp
+	"Case.h"
+	<vector>
+	<iostream>
+
+1638136550 source:c:\users\jules\onedrive\bureau\bagnah - pinte - tiercelet 2\projet cluedo vf\src\console.cpp
+	"console.h"
+
+1638136550 c:\users\jules\onedrive\bureau\bagnah - pinte - tiercelet 2\projet cluedo vf\include\console.h
+	<iostream>
+	<conio.h>
+	<windows.h>
+
+1638136550 source:c:\users\jules\onedrive\bureau\bagnah - pinte - tiercelet 2\projet cluedo vf\src\joueur.cpp
+	"Joueur.h"
+	"Carte.h"
+	"Console.h"
+	<iostream>
+
+1638136550 source:c:\users\jules\onedrive\bureau\bagnah - pinte - tiercelet 2\projet cluedo vf\src\paquet.cpp
+	"Paquet.h"
+
+1638136550 source:c:\users\jules\onedrive\bureau\bagnah - pinte - tiercelet 2\projet cluedo vf\src\plateau.cpp
+	"Plateau.h"
+	"console.h"
+
+1638136550 source:c:\users\jules\onedrive\bureau\bagnah-pinte-tiercelet\projet cluedo vf\src\carte.cpp
+	"Carte.h"
+	<iostream>
+	<random>
+	<algorithm>
+	<iterator>
+	<time.h>
+	<iostream>
+	<vector>
+	<time.h>
+	<fstream>
+
+1637678260 c:\users\jules\onedrive\bureau\bagnah-pinte-tiercelet\projet cluedo vf\include\carte.h
+	<iostream>
+
+1638136550 source:c:\users\jules\onedrive\bureau\bagnah-pinte-tiercelet\projet cluedo vf\src\case.cpp
+	"Case.h"
+	<vector>
+	<iostream>
+
+1638136550 c:\users\jules\onedrive\bureau\bagnah-pinte-tiercelet\projet cluedo vf\include\case.h
+	"Joueur.h"
+
+1638136550 c:\users\jules\onedrive\bureau\bagnah-pinte-tiercelet\projet cluedo vf\include\joueur.h
+	"Carte.h"
+	"Plateau.h"
+	<algorithm>
+	<random>
+	<chrono>
+	<iostream>
+	<vector>
+	<string>
+	<fstream>
+	<ctime>
+	<cstdlib>
+	<stack>
+
+1638136550 c:\users\jules\onedrive\bureau\bagnah-pinte-tiercelet\projet cluedo vf\include\plateau.h
+	<iostream>
+	<vector>
+	"Case.h"
+	"Joueur.h"
+	"Carte.h"
+
+1638136550 source:c:\users\jules\onedrive\bureau\bagnah-pinte-tiercelet\projet cluedo vf\src\console.cpp
+	"console.h"
+
+1638136550 c:\users\jules\onedrive\bureau\bagnah-pinte-tiercelet\projet cluedo vf\include\console.h
+	<iostream>
+	<conio.h>
+	<windows.h>
+
+1638138715 source:c:\users\jules\onedrive\bureau\bagnah-pinte-tiercelet\projet cluedo vf\src\joueur.cpp
+	"Joueur.h"
+	"Carte.h"
+	"Console.h"
+	<iostream>
+
+1638136550 source:c:\users\jules\onedrive\bureau\bagnah-pinte-tiercelet\projet cluedo vf\src\paquet.cpp
+	"Paquet.h"
+
+1638136550 c:\users\jules\onedrive\bureau\bagnah-pinte-tiercelet\projet cluedo vf\include\paquet.h
+	<iostream>
+	<random>
+	<algorithm>
+	<iterator>
+	<vector>
+	<time.h>
+	<iostream>
+	<vector>
+	<time.h>
+	"case.h"
+	"carte.h"
+
+1638136550 source:c:\users\jules\onedrive\bureau\bagnah-pinte-tiercelet\projet cluedo vf\src\plateau.cpp
+	"Plateau.h"
+	"console.h"
+
+1638136550 source:c:\users\mathy\onedrive\bureau\bagnah-pinte-tiercelet\projet cluedo vf\src\carte.cpp
+	"Carte.h"
+	<iostream>
+	<random>
+	<algorithm>
+	<iterator>
+	<time.h>
+	<iostream>
+	<vector>
+	<time.h>
+	<fstream>
+
+1637678260 c:\users\mathy\onedrive\bureau\bagnah-pinte-tiercelet\projet cluedo vf\include\carte.h
+	<iostream>
+
+1638136550 source:c:\users\mathy\onedrive\bureau\bagnah-pinte-tiercelet\projet cluedo vf\src\case.cpp
+	"Case.h"
+	<vector>
+	<iostream>
+
+1638136550 c:\users\mathy\onedrive\bureau\bagnah-pinte-tiercelet\projet cluedo vf\include\case.h
+	"Joueur.h"
+
+1638136550 c:\users\mathy\onedrive\bureau\bagnah-pinte-tiercelet\projet cluedo vf\include\joueur.h
+	"Carte.h"
+	"Plateau.h"
+	<algorithm>
+	<random>
+	<chrono>
+	<iostream>
+	<vector>
+	<string>
+	<fstream>
+	<ctime>
+	<cstdlib>
+	<stack>
+
+1638136550 c:\users\mathy\onedrive\bureau\bagnah-pinte-tiercelet\projet cluedo vf\include\plateau.h
+	<iostream>
+	<vector>
+	"Case.h"
+	"Joueur.h"
+	"Carte.h"
+
+1638136550 source:c:\users\mathy\onedrive\bureau\bagnah-pinte-tiercelet\projet cluedo vf\src\console.cpp
+	"console.h"
+
+1638136550 c:\users\mathy\onedrive\bureau\bagnah-pinte-tiercelet\projet cluedo vf\include\console.h
+	<iostream>
+	<conio.h>
+	<windows.h>
+
+1638138716 source:c:\users\mathy\onedrive\bureau\bagnah-pinte-tiercelet\projet cluedo vf\src\joueur.cpp
+	"Joueur.h"
+	"Carte.h"
+	"Console.h"
+	<iostream>
+
+1638136550 source:c:\users\mathy\onedrive\bureau\bagnah-pinte-tiercelet\projet cluedo vf\src\paquet.cpp
+	"Paquet.h"
+
+1638136550 c:\users\mathy\onedrive\bureau\bagnah-pinte-tiercelet\projet cluedo vf\include\paquet.h
+	<iostream>
+	<random>
+	<algorithm>
+	<iterator>
+	<vector>
+	<time.h>
+	<iostream>
+	<vector>
+	<time.h>
+	"case.h"
+	"carte.h"
+
+1638136550 source:c:\users\mathy\onedrive\bureau\bagnah-pinte-tiercelet\projet cluedo vf\src\plateau.cpp
+	"Plateau.h"
+	"console.h"
+
+1638138944 source:c:\users\mathy\onedrive\bureau\informatique\projet cluedo\projet cluedo vf\main.cpp
+	<vector>
+	<iostream>
+	<time.h>
+	<random>
+	<algorithm>
+	<iterator>
+	<windows.h>
+	"console.h"
+	"Carte.h"
+	"Joueur.h"
+	"Paquet.h"
+	"Case.h"
+	"Plateau.h"
+
+1636921448 c:\users\mathy\onedrive\bureau\informatique\projet cluedo\projet cluedo vf\console.h
+	<iostream>
+	<conio.h>
+	<windows.h>
+
+1637678260 c:\users\mathy\onedrive\bureau\informatique\projet cluedo\projet cluedo vf\include\carte.h
+	<iostream>
+
+1638136550 c:\users\mathy\onedrive\bureau\informatique\projet cluedo\projet cluedo vf\include\joueur.h
+	"Carte.h"
+	"Plateau.h"
+	<algorithm>
+	<random>
+	<chrono>
+	<iostream>
+	<vector>
+	<string>
+	<fstream>
+	<ctime>
+	<cstdlib>
+	<stack>
+
+1638136550 c:\users\mathy\onedrive\bureau\informatique\projet cluedo\projet cluedo vf\include\plateau.h
+	<iostream>
+	<vector>
+	"Case.h"
+	"Joueur.h"
+	"Carte.h"
+
+1638136550 c:\users\mathy\onedrive\bureau\informatique\projet cluedo\projet cluedo vf\include\case.h
+	"Joueur.h"
+
+1638136550 c:\users\mathy\onedrive\bureau\informatique\projet cluedo\projet cluedo vf\include\paquet.h
+	<iostream>
+	<random>
+	<algorithm>
+	<iterator>
+	<vector>
+	<time.h>
+	<iostream>
+	<vector>
+	<time.h>
+	"case.h"
+	"carte.h"
+
+1638136550 source:c:\users\mathy\onedrive\bureau\informatique\projet cluedo\projet cluedo vf\src\carte.cpp
+	"Carte.h"
+	<iostream>
+	<random>
+	<algorithm>
+	<iterator>
+	<time.h>
+	<iostream>
+	<vector>
+	<time.h>
+	<fstream>
+
+1638136550 source:c:\users\mathy\onedrive\bureau\informatique\projet cluedo\projet cluedo vf\src\case.cpp
+	"Case.h"
+	<vector>
+	<iostream>
+
+1638136550 source:c:\users\mathy\onedrive\bureau\informatique\projet cluedo\projet cluedo vf\src\console.cpp
+	"console.h"
+
+1638136550 c:\users\mathy\onedrive\bureau\informatique\projet cluedo\projet cluedo vf\include\console.h
+	<iostream>
+	<conio.h>
+	<windows.h>
+
+1638138716 source:c:\users\mathy\onedrive\bureau\informatique\projet cluedo\projet cluedo vf\src\joueur.cpp
+	"Joueur.h"
+	"Carte.h"
+	"Console.h"
+	<iostream>
+
+1638136550 source:c:\users\mathy\onedrive\bureau\informatique\projet cluedo\projet cluedo vf\src\paquet.cpp
+	"Paquet.h"
+
+1638136550 source:c:\users\mathy\onedrive\bureau\informatique\projet cluedo\projet cluedo vf\src\plateau.cpp
+	"Plateau.h"
+	"console.h"
+
+1638142544 source:c:\users\mathy\onedrive\bureau\ing2 s1\s1\informatique\projet cluedo\projet cluedo vf\main.cpp
+	<vector>
+	<iostream>
+	<time.h>
+	<random>
+	<algorithm>
+	<iterator>
+	<windows.h>
+	"console.h"
+	"Carte.h"
+	"Joueur.h"
+	"Paquet.h"
+	"Case.h"
+	"Plateau.h"
+
+1636925048 c:\users\mathy\onedrive\bureau\ing2 s1\s1\informatique\projet cluedo\projet cluedo vf\console.h
+	<iostream>
+	<conio.h>
+	<windows.h>
+
+1637681860 c:\users\mathy\onedrive\bureau\ing2 s1\s1\informatique\projet cluedo\projet cluedo vf\include\carte.h
+	<iostream>
+
+1638140150 c:\users\mathy\onedrive\bureau\ing2 s1\s1\informatique\projet cluedo\projet cluedo vf\include\joueur.h
+	"Carte.h"
+	"Plateau.h"
+	<algorithm>
+	<random>
+	<chrono>
+	<iostream>
+	<vector>
+	<string>
+	<fstream>
+	<ctime>
+	<cstdlib>
+	<stack>
+
+1649267343 c:\users\mathy\onedrive\bureau\ing2 s1\s1\informatique\projet cluedo\projet cluedo vf\include\plateau.h
+	<iostream>
+	<vector>
+	"Case.h"
+	"Joueur.h"
+	"Carte.h"
+
+1638140150 c:\users\mathy\onedrive\bureau\ing2 s1\s1\informatique\projet cluedo\projet cluedo vf\include\case.h
+	"Joueur.h"
+
+1638140150 c:\users\mathy\onedrive\bureau\ing2 s1\s1\informatique\projet cluedo\projet cluedo vf\include\paquet.h
+	<iostream>
+	<random>
+	<algorithm>
+	<iterator>
+	<vector>
+	<time.h>
+	<iostream>
+	<vector>
+	<time.h>
+	"case.h"
+	"carte.h"
+
+1638140150 source:c:\users\mathy\onedrive\bureau\ing2 s1\s1\informatique\projet cluedo\projet cluedo vf\src\carte.cpp
+	"Carte.h"
+	<iostream>
+	<random>
+	<algorithm>
+	<iterator>
+	<time.h>
+	<iostream>
+	<vector>
+	<time.h>
+	<fstream>
+
+1638140150 source:c:\users\mathy\onedrive\bureau\ing2 s1\s1\informatique\projet cluedo\projet cluedo vf\src\case.cpp
+	"Case.h"
+	<vector>
+	<iostream>
+
+1638140150 source:c:\users\mathy\onedrive\bureau\ing2 s1\s1\informatique\projet cluedo\projet cluedo vf\src\console.cpp
+	"console.h"
+
+1638140150 c:\users\mathy\onedrive\bureau\ing2 s1\s1\informatique\projet cluedo\projet cluedo vf\include\console.h
+	<iostream>
+	<conio.h>
+	<windows.h>
+
+1638142316 source:c:\users\mathy\onedrive\bureau\ing2 s1\s1\informatique\projet cluedo\projet cluedo vf\src\joueur.cpp
+	"Joueur.h"
+	"Carte.h"
+	"Console.h"
+	<iostream>
+
+1638140150 source:c:\users\mathy\onedrive\bureau\ing2 s1\s1\informatique\projet cluedo\projet cluedo vf\src\paquet.cpp
+	"Paquet.h"
+
+1649267967 source:c:\users\mathy\onedrive\bureau\ing2 s1\s1\informatique\projet cluedo\projet cluedo vf\src\plateau.cpp
+	"Plateau.h"
+	"console.h"
+
+1638138944 source:c:\users\mathy\onedrive\bureau\ing2\s1\informatique\projet cluedo\projet cluedo vf\main.cpp
+	<vector>
+	<iostream>
+	<time.h>
+	<random>
+	<algorithm>
+	<iterator>
+	<windows.h>
+	"console.h"
+	"Carte.h"
+	"Joueur.h"
+	"Paquet.h"
+	"Case.h"
+	"Plateau.h"
+
+1636921448 c:\users\mathy\onedrive\bureau\ing2\s1\informatique\projet cluedo\projet cluedo vf\console.h
+	<iostream>
+	<conio.h>
+	<windows.h>
+
+1637678260 c:\users\mathy\onedrive\bureau\ing2\s1\informatique\projet cluedo\projet cluedo vf\include\carte.h
+	<iostream>
+
+1638136550 c:\users\mathy\onedrive\bureau\ing2\s1\informatique\projet cluedo\projet cluedo vf\include\joueur.h
+	"Carte.h"
+	"Plateau.h"
+	<algorithm>
+	<random>
+	<chrono>
+	<iostream>
+	<vector>
+	<string>
+	<fstream>
+	<ctime>
+	<cstdlib>
+	<stack>
+
+1649263743 c:\users\mathy\onedrive\bureau\ing2\s1\informatique\projet cluedo\projet cluedo vf\include\plateau.h
+	<iostream>
+	<vector>
+	"Case.h"
+	"Joueur.h"
+	"Carte.h"
+
+1638136550 c:\users\mathy\onedrive\bureau\ing2\s1\informatique\projet cluedo\projet cluedo vf\include\case.h
+	"Joueur.h"
+
+1638136550 c:\users\mathy\onedrive\bureau\ing2\s1\informatique\projet cluedo\projet cluedo vf\include\paquet.h
+	<iostream>
+	<random>
+	<algorithm>
+	<iterator>
+	<vector>
+	<time.h>
+	<iostream>
+	<vector>
+	<time.h>
+	"case.h"
+	"carte.h"
+
+1638136550 source:c:\users\mathy\onedrive\bureau\ing2\s1\informatique\projet cluedo\projet cluedo vf\src\carte.cpp
+	"Carte.h"
+	<iostream>
+	<random>
+	<algorithm>
+	<iterator>
+	<time.h>
+	<iostream>
+	<vector>
+	<time.h>
+	<fstream>
+
+1638136550 source:c:\users\mathy\onedrive\bureau\ing2\s1\informatique\projet cluedo\projet cluedo vf\src\case.cpp
+	"Case.h"
+	<vector>
+	<iostream>
+
+1638136550 source:c:\users\mathy\onedrive\bureau\ing2\s1\informatique\projet cluedo\projet cluedo vf\src\console.cpp
+	"console.h"
+
+1638136550 c:\users\mathy\onedrive\bureau\ing2\s1\informatique\projet cluedo\projet cluedo vf\include\console.h
+	<iostream>
+	<conio.h>
+	<windows.h>
+
+1638138716 source:c:\users\mathy\onedrive\bureau\ing2\s1\informatique\projet cluedo\projet cluedo vf\src\joueur.cpp
+	"Joueur.h"
+	"Carte.h"
+	"Console.h"
+	<iostream>
+
+1638136550 source:c:\users\mathy\onedrive\bureau\ing2\s1\informatique\projet cluedo\projet cluedo vf\src\paquet.cpp
+	"Paquet.h"
+
+1649282728 source:c:\users\mathy\onedrive\bureau\ing2\s1\informatique\projet cluedo\projet cluedo vf\src\plateau.cpp
+	"Plateau.h"
+	"console.h"
+
