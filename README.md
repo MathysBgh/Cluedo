@@ -56,6 +56,6 @@ Le but du jeu est de résoudre le meurtre en enquêtant sur le meurtrier, l'arme
 
 ## Crédits
 
-Ce projet a été développé par [votre nom ici] dans le cadre du cours d'Informatique 2 à l'ECE Paris en novembre 2021. Il s'agit d'une adaptation du jeu de société Cluedo pour une expérience de jeu sur ordinateur.
+Ce projet a été développé par Jules PINTE, Maxence TIERCELET, et moi-même dans le cadre du cours d'Informatique à l'ECE Paris en novembre 2021. Il s'agit d'une adaptation du jeu de société Cluedo pour une expérience de jeu sur ordinateur.
 
 Nous espérons que vous apprécierez ce jeu et que vous passerez un bon moment à résoudre le mystère du meurtre !
